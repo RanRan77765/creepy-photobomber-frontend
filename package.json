@@ -8,6 +8,11 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   }
 }
+git add package.json
+git commit -m "Fix package.json with correct build script"
+git push
+
